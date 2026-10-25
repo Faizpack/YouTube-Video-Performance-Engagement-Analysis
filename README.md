@@ -4,7 +4,7 @@ Files
 - `YouTube_Analysis_Full.ipynb` - full Colab notebook
 - `app.py` - Streamlit dashboard
 - `requirements.txt` - dependencies for deployment
-- Put your own `youtube_videos_dataset.csv` next to `app.py` (or upload it in the app sidebar)
+- Put your own `youtube_videos_dataset.csv` next to `app.py` 
 
 Run locally
     pip install -r requirements.txt
